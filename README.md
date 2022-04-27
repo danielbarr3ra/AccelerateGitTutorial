@@ -208,4 +208,4 @@ Edit Value Stream Map -> Import JSON -> select file to upload.
 
 ## CONGRATS YOU ARE ALL SET!
 
-by Daniel Barrera | HCL Accelerate
+by Daniel Barrera  |  HCL Accelerate
