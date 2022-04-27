@@ -199,4 +199,4 @@ Edit Value Stream Map -> Import JSON -> select file to upload.
 
 
 
-by Daniel Barrera | HCL Accelerate
+by Daniel Barrera  |  HCL Accelerate
